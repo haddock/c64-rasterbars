@@ -3,7 +3,7 @@
 ; Code by actraiser/Dustlayer
 ;
 ; http://www.dustlayer.com
-; 
+;
 ;============================================================
 
 ;============================================================
@@ -15,7 +15,7 @@
 ;============================================================
 
 !cpu 6502
-!to "build/empty.prg",cbm    ; output file
+!to "build/helloworld.prg",cbm    ; output file
 
 ;============================================================
 ; BASIC loader with start address $c000
